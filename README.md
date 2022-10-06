@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeesieJF
-- 👀 I’m interested in building products that leverage AI and ML
+- 👀 I have solid expereience in QA, interested in building and collaborating on products that leverage AI and ML
 - 🌱 I’m currently learning and building capacity in Machine Learning + AI and its application to multiple industries.
 - 💞️ I’m looking to collaborate on building new, better performing algorithms
 - 📫 I can be reached on email (bisi.joshfalade@gmail.com)
